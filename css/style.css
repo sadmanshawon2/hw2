@@ -1,0 +1,18 @@
+body{
+    background-color: aqua;
+}
+div{
+    background-color: yellowgreen;
+}
+.bd1{
+    text-decoration: underline; 
+}
+.t1{
+    border: 1px solid;
+}
+.t2{
+    border: 2px dotted;
+}
+.t3{
+    border: 2px dashed;
+}
